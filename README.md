@@ -81,31 +81,3 @@ Part of the **Next.Core 1.0** release.
 Intended for **professional development use**.  
 Licensing terms may depend on **deployment model** and **organizational agreements**.
 
----
-
-# 📌 Persistence
-
-DataX stores tables as **plain text files**:
-
-- **Schema and settings**: Includes columns, data types, and roles.
-- **Rows with values**: Easily readable and editable data records.
-- **Relations in separate files**: Defines links like OneToOne and OneToMany.
-
-This approach supports **manual inspection and editing** with minimal tooling.
-
----
-
-# ✅ Use Cases
-
-- **Embedded apps** needing structured local storage
-- **Configurable business rules** with join-like queries
-- **Offline-first desktop utilities**
-- **Rapid prototyping** without a full server database
-
----
-
-# 📜 License
-
-Part of the **Next.Core 1.0** release.  
-Intended for **professional development use**.  
-Licensing terms may depend on **deployment model** and **organizational agreements**.
